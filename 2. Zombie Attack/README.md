@@ -1,3 +1,5 @@
+## zombie attack
+
 - A mapping is essentially a key-value store for storing and looking up data.
 - In Solidity, there are certain global variables that are available to all functions. One of these is msg.sender, which refers to the address of the person (or smart contract) who called the current function.
 - Note: In Solidity, function execution always needs to start with an external caller. A contract will just sit on the blockchain doing nothing until someone calls one of its functions. So there will always be a msg.sender.

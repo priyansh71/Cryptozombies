@@ -1,3 +1,5 @@
+## zombie factory
+
 - State variables are permanently stored in contract storage. This means they're written to the Ethereum blockchain. Think of them like writing to a DB.
 - Well, there are two ways in which you can pass an argument to a Solidity function:
 
