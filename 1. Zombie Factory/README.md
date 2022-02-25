@@ -20,4 +20,3 @@
     ```
 - Ethereum has the hash function **keccak256** built in, which is a version of SHA3. A hash function basically maps an input into a random 256-bit hexadecimal number. A slight change in the input will cause a large change in the hash. Also important, **keccak256** expects a single parameter of type bytes.
 - Events are a way for your contract to communicate that something happened on the blockchain to your app front-end, which can be 'listening' for certain events and take action when they happen.
-
