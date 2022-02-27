@@ -1,7 +1,7 @@
 ## [cryptoZombies](https://cryptozombies.io/en/course)
 
 ```
-Chapter
+cryptozombies
 └──ownable.sol
 └──zombiefactory.sol
 └──zombiefeeding.sol

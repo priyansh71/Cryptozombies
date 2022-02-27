@@ -9,8 +9,6 @@ import "./safemath.sol";
 /// @dev Compliant with OpenZeppelin's implementation of the ERC721 spec draft
 contract ZombieOwnership is ZombieAttack, ERC721 {
 
-  using SafeMath for uint256;
-
   mapping (uint => address) zombieApprovals;
 
   function balanceOf(address _owner) external view returns (uint256) {
