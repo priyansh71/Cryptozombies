@@ -1,7 +1,5 @@
-## [cryptoZombies](https://cryptozombies.io/en/course)
-
 ```
-cryptozombies
+solidity
 └──ownable.sol
 └──zombiefactory.sol
 └──zombiefeeding.sol
